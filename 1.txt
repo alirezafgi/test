@@ -1,1 +1,1 @@
-http://87.117.197.14/cr
+http://localhost/adress.txt
